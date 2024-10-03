@@ -39,10 +39,10 @@ setdata(res.data.data[0])
           <div className="font-[poppins] top-[40px]   text-[#F0F0F0]  h-max relative">
               <div className="ml-[-100px] lg:ml-[-160px] absolute lg:static md:ml-[-200px]   lg:w-auto w-[150px] md:w-[200px] ">
                 <h1 className="text-[20px]  md:text-[35px] lg:text-[50px] xl:text-[80px] font-semibold">
-                  Ruangpromkes
+                  
                 </h1>
                 <h2 className="text-[15px]  md:text-[30px] lg:text-[30px] xl:text-[40px]">
-                  Sistem Peminjaman Ruangan Lab
+                 Peminjaman Ruangan Lab
                 </h2>
               </div>
             </div>
